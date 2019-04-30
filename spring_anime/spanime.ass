@@ -14,18 +14,18 @@ Audio File: /Users/mac/Movies/Spring Anime 2019 in a Nutshell-pOnTPywkAt0.mp4
 Video File: /Users/mac/Movies/Spring Anime 2019 in a Nutshell-pOnTPywkAt0.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 125
-Active Line: 141
+Video Zoom Percent: 0.375000
+Active Line: 2
+Video Position: 157
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Heiti SC,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,90,1
 Style: tny,Heiti SC,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.01,0:00:01.20,Default,,0,0,0,,我认为我之前所说过的过并不是夸大其词
+Dialogue: 0,0:00:00.00,0:00:01.20,Default,,0,0,0,,我认为我之前所说过的过并不是夸大其词
 Dialogue: 0,0:00:01.20,0:00:05.22,Default,,0,0,0,,尤其是当我说前两个季度的动画我们见过的质量最高的动画季度的时候（润色
 Dialogue: 0,0:00:05.22,0:00:08.32,Default,,0,0,0,,珠玉在前，2019年春季番稍微有点难以望其项背了
 Dialogue: 0,0:00:08.32,0:00:10.80,Default,,0,0,0,,那么这季度有些什么动画呢
@@ -44,7 +44,7 @@ Dialogue: 0,0:00:59.14,0:01:04.68,Default,,0,0,0,,一方面，我发现我又一
 Dialogue: 0,0:01:04.68,0:01:08.58,Default,,0,0,0,,在连续两季度的动画里，我都看了某个家伙试图（）
 Dialogue: 0,0:01:08.58,0:01:11.18,Default,,0,0,0,,那不是更好吗，在动画里
 Dialogue: 0,0:01:11.18,0:01:18.70,Default,,0,0,0,,另一方面，我在认真纠结了下到底要不要关闭这动画，并保留我仅有的一丝颜面的时候
-Dialogue: 0,0:01:18.68,0:01:23.20,Default,,0,0,0,,闭嘴，闭嘴，这个场景太棒了
+Dialogue: 0,0:01:18.70,0:01:23.20,Default,,0,0,0,,闭嘴，闭嘴，这个场景太棒了
 Dialogue: 0,0:01:23.20,0:01:24.10,Default,,0,0,0,,Darling～
 Dialogue: 0,0:01:24.10,0:01:26.10,Default,,0,0,0,,啊～～～～～～
 Dialogue: 0,0:01:26.10,0:01:29.00,Default,,0,0,0,,这是现在动画中新开始流行起来的流派吗？
