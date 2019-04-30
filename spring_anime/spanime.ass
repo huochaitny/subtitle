@@ -10,13 +10,14 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: /Users/mac/Movies/Spring Anime 2019 in a Nutshell-pOnTPywkAt0.mp4
-Video File: /Users/mac/Movies/Spring Anime 2019 in a Nutshell-pOnTPywkAt0.mp4
+Audio File: ../../Spring Anime 2019 in a Nutshell-pOnTPywkAt0.mp4
+Video File: ../../Spring Anime 2019 in a Nutshell-pOnTPywkAt0.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 2
-Video Position: 157
+Scroll Position: 41
+Active Line: 43
+Video Position: 4457
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,36 +27,40 @@ Style: tny,Heiti SC,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:01.20,Default,,0,0,0,,我认为我之前所说过的过并不是夸大其词
-Dialogue: 0,0:00:01.20,0:00:05.22,Default,,0,0,0,,尤其是当我说前两个季度的动画我们见过的质量最高的动画季度的时候（润色
-Dialogue: 0,0:00:05.22,0:00:08.32,Default,,0,0,0,,珠玉在前，2019年春季番稍微有点难以望其项背了
-Dialogue: 0,0:00:08.32,0:00:10.80,Default,,0,0,0,,那么这季度有些什么动画呢
-Dialogue: 0,0:00:10.80,0:00:13.94,Default,,0,0,0,,来看看anichart，结论已经非常明显了
-Dialogue: 0,0:00:13.94,0:00:20.00,Default,,0,0,0,,因为这季度，我们有「one」，仅有的，「裤袜视界」
-Dialogue: 0,0:00:20.00,0:00:24.88,Default,,0,0,0,,这动画讲的是妹子们穿湿湿裤袜的故事
+Dialogue: 0,0:00:01.20,0:00:05.14,Default,,0,0,0,,尤其是当我说前两个季度的动画是\N这几年来质量最高的了
+Dialogue: 0,0:00:05.14,0:00:08.32,Default,,0,0,0,,珠玉在前，2019年春季番确实有点难以望其项背了
+Dialogue: 0,0:00:08.32,0:00:10.72,Default,,0,0,0,,那么这季度有些什么动画呢
+Dialogue: 0,0:00:10.72,0:00:13.94,Default,,0,0,0,,来看看anichart，结论已经非常明显了
+Dialogue: 0,0:00:13.94,0:00:18.24,Default,,0,0,0,,因为这季度，我们有独一无二的，仅有的
+Dialogue: 0,0:00:18.24,0:00:19.96,Default,,0,0,0,,「裤袜视界」
+Dialogue: 0,0:00:19.96,0:00:24.88,Default,,0,0,0,,这动画讲的是妹子们穿湿湿裤袜的故事
 Dialogue: 0,0:00:24.88,0:00:29.66,Default,,0,0,0,,这动画讲的是妹子们穿湿湿裤——
-Dialogue: 0,0:00:30.66,0:00:34.68,Default,,0,0,0,,（）
-Dialogue: 0,0:00:34.68,0:00:36.50,Default,,0,0,0,,YouTube版权警告
-Dialogue: 0,0:00:46.70,0:00:48.70,Default,,0,0,0,,这里是男厕所
-Dialogue: 0,0:00:48.70,0:00:52.30,Default,,0,0,0,,毫无疑问是男厕所
-Dialogue: 0,0:00:52.30,0:00:54.50,Default,,0,0,0,,但是，为什么
-Dialogue: 0,0:00:54.50,0:00:57.14,Default,,0,0,0,,为什么老师会在这里啊
-Dialogue: 0,0:00:57.14,0:00:59.14,Default,,0,0,0,,我在干什么（）
-Dialogue: 0,0:00:59.14,0:01:04.68,Default,,0,0,0,,一方面，我发现我又一次在动画中看到了插入栓剂的场面
-Dialogue: 0,0:01:04.68,0:01:08.58,Default,,0,0,0,,在连续两季度的动画里，我都看了某个家伙试图（）
-Dialogue: 0,0:01:08.58,0:01:11.18,Default,,0,0,0,,那不是更好吗，在动画里
-Dialogue: 0,0:01:11.18,0:01:18.70,Default,,0,0,0,,另一方面，我在认真纠结了下到底要不要关闭这动画，并保留我仅有的一丝颜面的时候
-Dialogue: 0,0:01:18.70,0:01:23.20,Default,,0,0,0,,闭嘴，闭嘴，这个场景太棒了
+Dialogue: 0,0:00:30.66,0:00:34.84,Default,,0,0,0,,（）
+Dialogue: 0,0:00:34.84,0:00:36.42,Default,,0,0,0,,YouTube版权警告
+Dialogue: 0,0:00:44.46,0:00:46.68,Default,,0,0,0,,简谈2019年春季新番
+Dialogue: 0,0:00:46.70,0:00:48.40,Default,,0,0,0,,这里是男厕所
+Dialogue: 0,0:00:48.40,0:00:50.80,Default,,0,0,0,,毫无疑问是男厕所
+Dialogue: 0,0:00:52.16,0:00:53.62,Default,,0,0,0,,但是，为什么
+Dialogue: 0,0:00:54.50,0:00:57.16,Default,,0,0,0,,为什么老师会在这里啊？！
+Dialogue: 0,0:00:57.16,0:00:59.14,Default,,0,0,0,,我在干什么（）
+Dialogue: 0,0:00:59.14,0:01:06.02,Default,,0,0,0,,一方面，我发现我在连续两个季度的动画里都看到了插入栓剂的桥段
+Dialogue: 0,0:01:06.02,0:01:08.88,Default,,0,0,0,,而这两部动画讲的都是某个家伙试图和老师谈恋爱
+Dialogue: 0,0:01:08.88,0:01:11.18,Default,,0,0,0,,“那不是更好吗”\N\N\N\N动画版本
+Dialogue: 0,0:01:11.18,0:01:18.70,Default,,0,0,0,,另一方面，我在认真纠结到底要不要关掉这动画\N并保留我仅有的一丝颜面
+Dialogue: 0,0:01:18.70,0:01:21.28,Default,,0,0,0,,闭嘴，闭嘴，这个场景太棒了
 Dialogue: 0,0:01:23.20,0:01:24.10,Default,,0,0,0,,Darling～
 Dialogue: 0,0:01:24.10,0:01:26.10,Default,,0,0,0,,啊～～～～～～
-Dialogue: 0,0:01:26.10,0:01:29.00,Default,,0,0,0,,这是现在动画中新开始流行起来的流派吗？
-Dialogue: 0,0:01:29.00,0:01:30.86,Default,,0,0,0,,我简直不敢相信这是Hentai
-Dialogue: 0,0:01:30.86,0:01:32.96,Default,,0,0,0,,我绝对不是唯一一个发现了这一点的人
+Dialogue: 0,0:01:26.10,0:01:29.00,Default,,0,0,0,,卧槽，这是现在动画中的新流派吗？
+Dialogue: 0,0:01:29.00,0:01:30.86,Default,,0,0,0,,我简直不敢相信这动画居然不是Hentai
+Dialogue: 0,0:01:30.86,0:01:32.96,Default,,0,0,0,,我绝对不是唯一发现了这一点的人
 Dialogue: 0,0:01:32.96,0:01:36.64,Default,,0,0,0,,那就是现在动画和Hentai的界限越来越模糊了
-Dialogue: 0,0:01:36.64,0:01:39.96,Default,,0,0,0,,从这动画能被打上这么多的Hentai标签，你就能看出这一点（润色）
-Dialogue: 0,0:01:39.96,0:01:41.12,Default,,0,0,0,,所以为什么不呢（润色）
+Dialogue: 0,0:01:36.64,0:01:39.96,Default,,0,0,0,,想象下这动画能够被打上多少的Hentai标签，你就能明白了
+Dialogue: 0,0:01:39.96,0:01:41.12,Default,,0,0,0,,所以为什么不试试呢
 Dialogue: 0,0:01:41.12,0:01:43.52,Default,,0,0,0,,来看看在这季度的新番中我们可以得到多少的Hentai标签吧
 Dialogue: 0,0:01:43.52,0:01:48.12,Default,,0,0,0,,然后来看看现在的动画到底有变得多么Hentai吧
-Dialogue: 0,0:01:48.12,0:01:49.90,Default,,0,0,0,,我发誓别这样做好吗（丑陋的油腻大叔）（润色）
+Dialogue: 0,0:01:48.12,0:01:49.90,Default,,0,0,0,,{\pos(445,420)}丑陋的油腻大叔
+Dialogue: 0,0:01:48.12,0:01:49.90,Default,,0,0,0,,TM的别这样做好吗
+Dialogue: 0,0:01:49.90,0:01:51.98,Default,,0,0,0,,{\pos(602,456)\fs60\b0}丑陋的油腻大叔
 Dialogue: 0,0:01:49.90,0:01:51.98,Default,,0,0,0,,我不需要这狗屎玩意儿在我看的动画中出现
 Dialogue: 0,0:01:51.98,0:01:56.94,Default,,0,0,0,,没人希望在动画里看到那些丑陋的食人魔和纯洁萝莉的那些玩意儿
 Dialogue: 0,0:01:56.94,0:01:59.00,Default,,0,0,0,,别这样做，别TM这样做啊
