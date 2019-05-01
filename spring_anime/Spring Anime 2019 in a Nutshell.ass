@@ -1,0 +1,366 @@
+[Script Info]
+;
+;下载 YouTube 字幕请访问 https://zhuwei.me/y2b/
+Title:
+Original Script:
+Synch Point:0
+PlayResY: 0
+WrapStyle: 0
+ScriptType:v4.00+
+Collisions:Normal
+WrapStyle:2
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,14,&H00FFFFFF,&HFF000000,&H006C3300,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,5,5,2,134
+
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:00.03,00:00:01.12,*Default,NTP,0000,0000,0000,,I don't think I'm overstating him when I
+我不认为我在夸大他
+Dialogue: 0,00:00:01.32,00:00:02.83,*Default,NTP,0000,0000,0000,,say that the last two seasons of anime\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}说最后两个季节的动漫
+Dialogue: 0,00:00:03.03,00:00:04.30,*Default,NTP,0000,0000,0000,,were some of the best we've seen in\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}是我们见过的最好的一些
+Dialogue: 0,00:00:04.50,00:00:04.75,*Default,NTP,0000,0000,0000,,years\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}年份
+Dialogue: 0,00:00:04.95,00:00:08.02,*Default,NTP,0000,0000,0000,,so spring 2019 has a lot to live up to\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}所以春季2019有很多不辜负
+Dialogue: 0,00:00:08.22,00:00:10.00,*Default,NTP,0000,0000,0000,,so what could possibly be carrying the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}什么可能携带的
+Dialogue: 0,00:00:10.20,00:00:11.92,*Default,NTP,0000,0000,0000,,season well looking at the chart it\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}季节很好看图表吧
+Dialogue: 0,00:00:12.12,00:00:13.84,*Default,NTP,0000,0000,0000,,should be pretty obvious I mean because\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}应该是非常明显的我的意思是因为
+Dialogue: 0,00:00:14.04,00:00:17.40,*Default,NTP,0000,0000,0000,,this season we have the one the only\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}本赛季我们有一个唯一的
+Dialogue: 0,00:00:17.60,00:00:21.55,*Default,NTP,0000,0000,0000,,Mira tights it's a show about girls\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} Mira紧身衣是一个关于女孩的节目
+Dialogue: 0,00:00:21.75,00:00:26.16,*Default,NTP,0000,0000,0000,,wearing wet tights it's a show about\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}穿着湿紧身衣， 这是一个表演
+Dialogue: 0,00:00:26.36,00:01:00.22,*Default,NTP,0000,0000,0000,,girls wearing wet myself one hand I\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 女孩一只手湿着我
+Dialogue: 0,00:01:00.42,00:01:02.56,*Default,NTP,0000,0000,0000,,somehow find myself watching the second\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}不知何故发现自己在看第二个
+Dialogue: 0,00:01:02.76,00:01:05.38,*Default,NTP,0000,0000,0000,,anime suppository seen in back-to-back\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}动漫栓剂背靠背看到
+Dialogue: 0,00:01:05.58,00:01:07.51,*Default,NTP,0000,0000,0000,,seasons of some guy trying to get with\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 一些人试图与之相处的季节
+Dialogue: 0,00:01:07.71,00:01:10.33,*Default,NTP,0000,0000,0000,,his teacher in that's the best part the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}他在老师的最好的部分
+Dialogue: 0,00:01:10.53,00:01:12.79,*Default,NTP,0000,0000,0000,,anime and on the other on debating\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}动漫，另一方面辩论
+Dialogue: 0,00:01:12.99,00:01:14.74,*Default,NTP,0000,0000,0000,,whether it's worth turning this off and\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}是否值得关闭它
+Dialogue: 0,00:01:14.94,00:01:16.90,*Default,NTP,0000,0000,0000,,treasuring the small bit of dignity\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}珍惜一点点尊严
+Dialogue: 0,00:01:17.10,00:01:19.75,*Default,NTP,0000,0000,0000,,I still have wretch shut up shop this is\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我还可怜虫关门了，这是
+Dialogue: 0,00:01:19.95,00:01:26.41,*Default,NTP,0000,0000,0000,,the best part this is the best part this\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}最好的部分， 这是最好的部分
+Dialogue: 0,00:01:26.61,00:01:28.54,*Default,NTP,0000,0000,0000,,is later show in animes new genre I\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 随后显示animes新流派我
+Dialogue: 0,00:01:28.74,00:01:30.97,*Default,NTP,0000,0000,0000,,can't believe it's not hentai and I mean\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我不敢相信它不是无尽的
+Dialogue: 0,00:01:31.17,00:01:32.29,*Default,NTP,0000,0000,0000,,I can't be the only one noticing\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我不可能是唯一注意到的人
+Dialogue: 0,00:01:32.49,00:01:33.97,*Default,NTP,0000,0000,0000,,nowadays how the line between anime\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}时下如何动漫之间的界限
+Dialogue: 0,00:01:34.17,00:01:35.74,*Default,NTP,0000,0000,0000,,plots and hentai plots is slowly\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}情节和无尽的情节正在缓慢
+Dialogue: 0,00:01:35.94,00:01:37.33,*Default,NTP,0000,0000,0000,,blurring at this point you can basically\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}在这一点上模糊你基本上可以
+Dialogue: 0,00:01:37.53,00:01:39.22,*Default,NTP,0000,0000,0000,,see you or a hentai tags you can add to\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}看到你或你可以添加的无尽标签
+Dialogue: 0,00:01:39.42,00:01:41.26,*Default,NTP,0000,0000,0000,,an anime so why the hell not let's see\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}一个动漫，所以为什么不让我们看到
+Dialogue: 0,00:01:41.46,00:01:43.12,*Default,NTP,0000,0000,0000,,how many tags we can collect this season\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我们本季可以收集多少标签
+Dialogue: 0,00:01:43.32,00:01:47.31,*Default,NTP,0000,0000,0000,,and see how hentai anime has gotten I\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}看看无尽的动漫是如何得到我的
+Dialogue: 0,00:01:47.51,00:01:49.54,*Default,NTP,0000,0000,0000,,swear to god out of me you better not do\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}向上帝发誓我了，你最好别做
+Dialogue: 0,00:01:49.74,00:01:51.22,*Default,NTP,0000,0000,0000,,it I don't need this shit in my anime\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我在动漫中不需要这个狗屎
+Dialogue: 0,00:01:51.42,00:01:53.35,*Default,NTP,0000,0000,0000,,right now nobody asked to see some ugly\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}现在没有人要求看到一些丑陋
+Dialogue: 0,00:01:53.55,00:01:54.88,*Default,NTP,0000,0000,0000,,sweaty ogres bang a bunch of innocent\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}满身是汗的食人魔砰的一声无辜
+Dialogue: 0,00:01:55.08,00:01:57.01,*Default,NTP,0000,0000,0000,,lollies being heap doing it anyway don't\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 无论如何， lollies 正在堆着它
+Dialogue: 0,00:01:57.21,00:01:59.20,*Default,NTP,0000,0000,0000,,do it don't fucking do it if I see one\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 如果我看到一个，那就不要他妈的去做
+Dialogue: 0,00:01:59.40,00:02:01.60,*Default,NTP,0000,0000,0000,,more big fat fucking jungus when I leave\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我离开时更加大胖他妈的琼花
+Dialogue: 0,00:02:01.80,00:02:04.42,*Default,NTP,0000,0000,0000,,don't do it oh my god he's beautiful I\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}不要这样做哦我的上帝他很漂亮我
+Dialogue: 0,00:02:04.62,00:02:06.46,*Default,NTP,0000,0000,0000,,have the biggest nostalgia boner right\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}拥有最大的怀旧之情
+Dialogue: 0,00:02:06.66,00:02:08.98,*Default,NTP,0000,0000,0000,,now it's like an erection Strayed in my\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 现在它就像是在我身上迷失的勃起
+Dialogue: 0,00:02:09.18,00:02:11.72,*Default,NTP,0000,0000,0000,,childhood\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 童年
+Dialogue: 0,00:02:13.21,00:02:17.85,*Default,NTP,0000,0000,0000,,you crying I'm not crying these are just\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 你哭了我不哭这些只是
+Dialogue: 0,00:02:18.05,00:02:19.98,*Default,NTP,0000,0000,0000,,the pre-cum of my soul man what time\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 什么时候我的灵魂人的前暨
+Dialogue: 0,00:02:20.18,00:02:21.48,*Default,NTP,0000,0000,0000,,period are we living in right now it\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 期间内，我们生活在现在这
+Dialogue: 0,00:02:21.68,00:02:23.64,*Default,NTP,0000,0000,0000,,feels weird that it's 2019 and one of\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}感到奇怪，它是2019年和其中之一
+Dialogue: 0,00:02:23.84,00:02:25.74,*Default,NTP,0000,0000,0000,,the biggest shows this season is fruits\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 本赛季最大的节目是水果
+Dialogue: 0,00:02:25.94,00:02:27.96,*Default,NTP,0000,0000,0000,,baskets but in this age of new season\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 篮子，但在这个新赛季的时代
+Dialogue: 0,00:02:28.16,00:02:30.00,*Default,NTP,0000,0000,0000,,announcements and remakes let it sink in\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}公告和重拍让它沉入其中
+Dialogue: 0,00:02:30.20,00:02:31.80,*Default,NTP,0000,0000,0000,,that your favorite order anime is\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 你最喜欢的订单动漫是
+Dialogue: 0,00:02:32.00,00:02:33.48,*Default,NTP,0000,0000,0000,,probably more likely to get another\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}可能更容易得到另一
+Dialogue: 0,00:02:33.68,00:02:36.03,*Default,NTP,0000,0000,0000,,season or remake now than it did when it\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 季节或翻拍现在的确要比它的时候
+Dialogue: 0,00:02:36.23,00:02:38.43,*Default,NTP,0000,0000,0000,,aired like a decade ago so that's right\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 像十年前一样播出，这是对的
+Dialogue: 0,00:02:38.63,00:02:40.71,*Default,NTP,0000,0000,0000,,boys the dream isn't dead yet you know\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 男孩，梦想没有死，但你知道
+Dialogue: 0,00:02:40.91,00:02:42.06,*Default,NTP,0000,0000,0000,,what I actually wanted to give a quick\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我真的想快速给出什么
+Dialogue: 0,00:02:42.26,00:02:43.77,*Default,NTP,0000,0000,0000,,shout out to China because I saw this\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 因为我看到了这一点而向中国大喊大叫
+Dialogue: 0,00:02:43.97,00:02:45.42,*Default,NTP,0000,0000,0000,,clip the other day and the Chinese made\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 前几天和中国制造的
+Dialogue: 0,00:02:45.62,00:02:48.24,*Default,NTP,0000,0000,0000,,anime and this is by far the best cg\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}动漫，这是迄今为止最好的cg
+Dialogue: 0,00:02:48.44,00:02:50.52,*Default,NTP,0000,0000,0000,,crowds I've seen I didn't even notice it\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}人群我见过我甚至没有注意到它
+Dialogue: 0,00:02:50.72,00:02:52.41,*Default,NTP,0000,0000,0000,,was ceg until someone pointed it out and\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 在CEG直到有人指出了这一点，并
+Dialogue: 0,00:02:52.61,00:02:54.45,*Default,NTP,0000,0000,0000,,if you really concentrate it does look a\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}如果你真的专注，它看起来确实如此
+Dialogue: 0,00:02:54.65,00:02:57.18,*Default,NTP,0000,0000,0000,,bit stiff it's not perfect but dear Lord\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}有点僵硬，这不完美，但亲爱的主
+Dialogue: 0,00:02:57.38,00:03:10.59,*Default,NTP,0000,0000,0000,,we're finally making strides I thought\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我想，我们终于取得了进步
+Dialogue: 0,00:03:10.79,00:03:13.95,*Default,NTP,0000,0000,0000,,we were making progress I thought we\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我想我们正在取得进步
+Dialogue: 0,00:03:14.15,00:03:17.05,*Default,NTP,0000,0000,0000,,were making progress\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 正在取得进展
+Dialogue: 0,00:03:20.88,00:03:23.03,*Default,NTP,0000,0000,0000,,hey it's a show called demon slayer\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}嘿，这是一个叫恶魔杀手的节目
+Dialogue: 0,00:03:23.23,00:03:25.04,*Default,NTP,0000,0000,0000,,about a guy who slays demons and would\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}关于一个杀死恶魔的人会
+Dialogue: 0,00:03:25.24,00:03:26.66,*Default,NTP,0000,0000,0000,,you look at that it's been an entire\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}你看，这是一个完整的
+Dialogue: 0,00:03:26.86,00:03:28.22,*Default,NTP,0000,0000,0000,,episode of no one's been violently\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}一集都没有人暴力
+Dialogue: 0,00:03:28.42,00:03:29.69,*Default,NTP,0000,0000,0000,,assaulted so don't have to add any more\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}殴打所以不必再添加了
+Dialogue: 0,00:03:29.89,00:03:36.50,*Default,NTP,0000,0000,0000,,suspect tags but of God say you folks\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 可疑的标签，但上帝说你们的人
+Dialogue: 0,00:03:36.70,00:03:38.66,*Default,NTP,0000,0000,0000,,more have done it again and I was sold\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 更多人再次这样做了，我被卖掉了
+Dialogue: 0,00:03:38.86,00:03:40.36,*Default,NTP,0000,0000,0000,,seeing this absolutely gorgeous\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}看到这绝对华丽
+Dialogue: 0,00:03:40.56,00:03:43.40,*Default,NTP,0000,0000,0000,,beautifully directed dynamic little\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 精美的导演动态小
+Dialogue: 0,00:03:43.60,00:03:47.84,*Default,NTP,0000,0000,0000,,sister on a serious note though is cool\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}妹妹虽然很酷，但还是很认真
+Dialogue: 0,00:03:48.04,00:03:49.25,*Default,NTP,0000,0000,0000,,to see another shounen jump title\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}看到另一个shounen跳冠军
+Dialogue: 0,00:03:49.45,00:03:50.78,*Default,NTP,0000,0000,0000,,getting the premium treatment from you\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}从你那里获得优质治疗
+Dialogue: 0,00:03:50.98,00:03:52.76,*Default,NTP,0000,0000,0000,,photo at this time and once again I mean\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 在这个时候的照片， 我的意思是再一次
+Dialogue: 0,00:03:52.96,00:03:55.07,*Default,NTP,0000,0000,0000,,it's you photo it looks like the action\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}它是你的照片，看起来像是动作
+Dialogue: 0,00:03:55.27,00:03:56.87,*Default,NTP,0000,0000,0000,,scenes are exhilarating integrating the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}场景令人振奋，整合了
+Dialogue: 0,00:03:57.07,00:03:59.27,*Default,NTP,0000,0000,0000,,trademark ufotable CG and dynamic camera\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}商标ufotable CG和动态相机
+Dialogue: 0,00:03:59.47,00:04:01.49,*Default,NTP,0000,0000,0000,,and I'm just happy to hear Yuki Kaji are\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 而且我很高兴听到Yuki Kaji
+Dialogue: 0,00:04:01.69,00:04:03.08,*Default,NTP,0000,0000,0000,,all of them again even if it sounds\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 所有的人再次，即使它听起来
+Dialogue: 0,00:04:03.28,00:04:05.18,*Default,NTP,0000,0000,0000,,eerily similar to her work on fate/zero\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}与她在命运/归零方面的工作非常相似
+Dialogue: 0,00:04:05.38,00:04:07.34,*Default,NTP,0000,0000,0000,,and Kara no Kyoukai and that's not a\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 和Kara no Kyoukai，那不是
+Dialogue: 0,00:04:07.54,00:04:09.32,*Default,NTP,0000,0000,0000,,complaint I swear cuz I say the same\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}投诉我发誓因为我说同样的话
+Dialogue: 0,00:04:09.52,00:04:11.03,*Default,NTP,0000,0000,0000,,thing about Sour no but come on it's\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}关于酸的事情没有，但是来吧
+Dialogue: 0,00:04:11.23,00:04:12.98,*Default,NTP,0000,0000,0000,,sour no everything's better with a sour\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 酸味没有一切都带有酸味更好
+Dialogue: 0,00:04:13.18,00:04:14.96,*Default,NTP,0000,0000,0000,,no drop it feels like ages since we last\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 自从我们上次以来，感觉就像年龄一样
+Dialogue: 0,00:04:15.16,00:04:16.58,*Default,NTP,0000,0000,0000,,heard him so you know what to prove my\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}听到他，所以你知道要证明什么
+Dialogue: 0,00:04:16.78,00:04:18.26,*Default,NTP,0000,0000,0000,,point about sour no drops here's a\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 关于酸不点滴在这里是一个
+Dialogue: 0,00:04:18.46,00:04:20.39,*Default,NTP,0000,0000,0000,,dramatic slow zoom of a waffle falling\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}华夫饼飘落的戏剧性慢变焦
+Dialogue: 0,00:04:20.59,00:04:25.53,*Default,NTP,0000,0000,0000,,over to the sound of the ape Titan theme\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}猿人泰坦主题的声音
+Dialogue: 0,00:04:39.97,00:04:42.26,*Default,NTP,0000,0000,0000,,there he gone more like barely gone for\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 在那里，他更像是勉强走了
+Dialogue: 0,00:04:42.46,00:04:45.14,*Default,NTP,0000,0000,0000,,my memory no seriously this show was so\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我的记忆没有认真对待这个节目
+Dialogue: 0,00:04:45.34,00:04:46.61,*Default,NTP,0000,0000,0000,,painful he forgets why I really don't\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}痛苦的他忘了我为什么不这样做
+Dialogue: 0,00:04:46.81,00:04:49.16,*Default,NTP,0000,0000,0000,,have much to say about it oh I've seen\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}有太多的话要说，它哦，我见过
+Dialogue: 0,00:04:49.36,00:04:51.11,*Default,NTP,0000,0000,0000,,enough anime to know where this is going\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}足够的动漫来了解这是怎么回事
+Dialogue: 0,00:04:51.31,00:04:54.32,*Default,NTP,0000,0000,0000,,haha checkmate officer you can't arrest\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 哈哈将军官你不能逮捕
+Dialogue: 0,00:04:54.52,00:04:58.07,*Default,NTP,0000,0000,0000,,me if I'm already arrested look let's be\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我， 如果我已经被捕，那就让我们成为
+Dialogue: 0,00:04:58.27,00:04:59.48,*Default,NTP,0000,0000,0000,,honest when you see a character design\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 当你看到角色设计时诚实
+Dialogue: 0,00:04:59.68,00:05:02.00,*Default,NTP,0000,0000,0000,,like this paired with the words 800 year\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}像这样配对800年的话
+Dialogue: 0,00:05:02.20,00:05:04.01,*Default,NTP,0000,0000,0000,,old fox girl your first reaction is\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 老狐狸女孩你的第一反应是
+Dialogue: 0,00:05:04.21,00:05:05.96,*Default,NTP,0000,0000,0000,,probably to think something dodgy is up\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}可能会认为狡猾的事情正在发生
+Dialogue: 0,00:05:06.16,00:05:07.64,*Default,NTP,0000,0000,0000,,and hope to god that is not your penis\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 希望上帝不是你的阴茎
+Dialogue: 0,00:05:07.84,00:05:10.13,*Default,NTP,0000,0000,0000,,but dear Lord the helpful Fox sang\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 亲爱的福克斯 亲爱的主唱
+Dialogue: 0,00:05:10.33,00:05:12.47,*Default,NTP,0000,0000,0000,,cosine is just one wholesome ass show\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}余弦只是一个健康的屁股秀
+Dialogue: 0,00:05:12.67,00:05:14.12,*Default,NTP,0000,0000,0000,,watching an episode of this is like the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 看一集就像这样
+Dialogue: 0,00:05:14.32,00:05:15.89,*Default,NTP,0000,0000,0000,,real-life equivalent of eating a sense\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}现实生活相当于吃感
+Dialogue: 0,00:05:16.09,00:05:17.03,*Default,NTP,0000,0000,0000,,of being you're just watching a\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 因为你只是在看一个
+Dialogue: 0,00:05:17.23,00:05:19.13,*Default,NTP,0000,0000,0000,,stressed-out overworked salary man being\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 压力过大的薪水男子正在
+Dialogue: 0,00:05:19.33,00:05:20.78,*Default,NTP,0000,0000,0000,,pampered by a fox lolly and it's the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 受到狐狸棒棒糖的呵护，这就是它
+Dialogue: 0,00:05:20.98,00:05:22.79,*Default,NTP,0000,0000,0000,,closest to real life HP recovery you're\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}最接近现实生活HP恢复你
+Dialogue: 0,00:05:22.99,00:05:25.28,*Default,NTP,0000,0000,0000,,gonna get this is like fanservice for\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}会得到这就像粉丝服务
+Dialogue: 0,00:05:25.48,00:05:30.56,*Default,NTP,0000,0000,0000,,the Soul I mean just having a chasm hey\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 灵魂我的意思是只有一个鸿沟嘿
+Dialogue: 0,00:05:30.76,00:05:32.39,*Default,NTP,0000,0000,0000,,I heard you liked Issei KY so it took an\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我听说你喜欢Issei KY所以它花了一个
+Dialogue: 0,00:05:32.59,00:05:34.55,*Default,NTP,0000,0000,0000,,e say Chi and he say Chi nice a kind and\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} E假定志和他说， 智漂亮一种和
+Dialogue: 0,00:05:34.75,00:05:36.77,*Default,NTP,0000,0000,0000,,E say Chi then II sake I ve say kind to\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} E说Chi然后II清酒我说得很好
+Dialogue: 0,00:05:36.97,00:05:37.07,*Default,NTP,0000,0000,0000,,another\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}另一个
+Dialogue: 0,00:05:37.27,00:05:39.08,*Default,NTP,0000,0000,0000,,Issei Chi is this ISA kind enough for\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} Issei Chi对于这​​种ISA来说足够了
+Dialogue: 0,00:05:39.28,00:05:40.97,*Default,NTP,0000,0000,0000,,you I really didn't think I'd like this\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}你我真的不认为我喜欢这个
+Dialogue: 0,00:05:41.17,00:05:41.99,*Default,NTP,0000,0000,0000,,as much as I do\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 像我这样做
+Dialogue: 0,00:05:42.19,00:05:45.17,*Default,NTP,0000,0000,0000,,I lied I like this exactly as much as I\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我骗我喜欢这正是像我
+Dialogue: 0,00:05:45.37,00:05:46.79,*Default,NTP,0000,0000,0000,,thought I would but didn't want to admit\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}以为我会， 但不想承认
+Dialogue: 0,00:05:46.99,00:05:48.53,*Default,NTP,0000,0000,0000,,to myself I mean it's just a glorified\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}对我自己，我的意思是它只是一个美化
+Dialogue: 0,00:05:48.73,00:05:50.30,*Default,NTP,0000,0000,0000,,Eastlake I fanfiction who would have\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} Eastlake我很喜欢谁
+Dialogue: 0,00:05:50.50,00:05:51.80,*Default,NTP,0000,0000,0000,,thought that seeing Eastlake I character\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}以为看到Eastlake我的性格
+Dialogue: 0,00:05:52.00,00:05:53.51,*Default,NTP,0000,0000,0000,,x'b and with each other could be so damn\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} x'b和彼此可能真是太该死了
+Dialogue: 0,00:05:53.71,00:05:55.28,*Default,NTP,0000,0000,0000,,enjoyable cause you got all your\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}愉快， 因为你得到了所有的
+Dialogue: 0,00:05:55.48,00:05:58.10,*Default,NTP,0000,0000,0000,,favorite characters here Kazuma ein\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}最喜欢的角色Kazumaein
+Dialogue: 0,00:05:58.30,00:06:01.97,*Default,NTP,0000,0000,0000,,summer hot qua Amelia\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}夏天炎热的阿米莉亚
+Dialogue: 0,00:06:02.17,00:06:06.98,*Default,NTP,0000,0000,0000,,C brew whoever this is truckin oh there\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} C酿造谁这是卡车哦那里
+Dialogue: 0,00:06:07.18,00:06:07.31,*Default,NTP,0000,0000,0000,,he is\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 他是
+Dialogue: 0,00:06:07.51,00:06:09.29,*Default,NTP,0000,0000,0000,,there's my boy again of course the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 当然还有我的男孩
+Dialogue: 0,00:06:09.49,00:06:10.67,*Default,NTP,0000,0000,0000,,season wouldn't be complete without at\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}如果没有，赛季就不会完整
+Dialogue: 0,00:06:10.87,00:06:12.47,*Default,NTP,0000,0000,0000,,least one new ISA Kai and I've got to\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}至少有一个新的ISA凯和我必须这样做
+Dialogue: 0,00:06:12.67,00:06:14.06,*Default,NTP,0000,0000,0000,,give it to Kendra in the margo sea while\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}把它送到margo海的肯德拉
+Dialogue: 0,00:06:14.26,00:06:15.86,*Default,NTP,0000,0000,0000,,most sa car nowadays strive to have at\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 如今大多数汽车都力求拥有
+Dialogue: 0,00:06:16.06,00:06:17.51,*Default,NTP,0000,0000,0000,,least one original hook or premise\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}至少一个原始的钩子或前提
+Dialogue: 0,00:06:17.71,00:06:19.76,*Default,NTP,0000,0000,0000,,before diving to every other generic sa\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}在潜入其他所有通用sa之前
+Dialogue: 0,00:06:19.96,00:06:22.79,*Default,NTP,0000,0000,0000,,kike engine imago is completely original\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} kike引擎意象是完全原创的
+Dialogue: 0,00:06:22.99,00:06:26.72,*Default,NTP,0000,0000,0000,,in its complete unoriginal 'ti you may\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 在它完整的非原创'你可能
+Dialogue: 0,00:06:26.92,00:06:28.10,*Default,NTP,0000,0000,0000,,be thinking how it's possible to make a\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}正在思考如何制作一个
+Dialogue: 0,00:06:28.30,00:06:30.41,*Default,NTP,0000,0000,0000,,generic anime that is more generic than\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}通用动漫比通用动漫更通用
+Dialogue: 0,00:06:30.61,00:06:34.13,*Default,NTP,0000,0000,0000,,the most generic ISA Kai there is you\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}最通用的ISAKai就是你
+Dialogue: 0,00:06:34.33,00:06:36.31,*Default,NTP,0000,0000,0000,,add a magic harem high school into it\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}加入一个神奇的后宫高中
+Dialogue: 0,00:06:36.51,00:06:40.04,*Default,NTP,0000,0000,0000,,yeah it's an e sake high magic harem\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}是的，这是一个高魔法后宫
+Dialogue: 0,00:06:40.24,00:06:42.98,*Default,NTP,0000,0000,0000,,high school that's right people we have\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}高中，这是我们合适的人
+Dialogue: 0,00:06:43.18,00:06:47.79,*Default,NTP,0000,0000,0000,,reached new heights of generic Ness\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}达到了通用Ness的新高度
+Dialogue: 0,00:06:47.90,00:06:50.35,*Default,NTP,0000,0000,0000,,what look let's be honest though if you\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 如果你这么看我们应该说实话
+Dialogue: 0,00:06:50.55,00:06:52.30,*Default,NTP,0000,0000,0000,,lease a high-power fantasy trash like me\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}租用像我这样的高功率幻想垃圾
+Dialogue: 0,00:06:52.50,00:06:53.83,*Default,NTP,0000,0000,0000,,you're gonna find yourself watching it\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}你会发现自己在看它
+Dialogue: 0,00:06:54.03,00:06:55.84,*Default,NTP,0000,0000,0000,,anyway for reasons you don't know why\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}无论如何因为你不知道原因
+Dialogue: 0,00:06:56.04,00:06:58.09,*Default,NTP,0000,0000,0000,,because from the premise to the studio\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 因为从工作室的前提
+Dialogue: 0,00:06:58.29,00:07:00.49,*Default,NTP,0000,0000,0000,,to the staff members there is absolutely\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}该工作人员也绝对
+Dialogue: 0,00:07:00.69,00:07:04.54,*Default,NTP,0000,0000,0000,,nothing noteworthy about this shut era\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}这个关闭时代没什么值得注意的
+Dialogue: 0,00:07:04.74,00:07:07.72,*Default,NTP,0000,0000,0000,,manga sensei and domestic girlfriend\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}漫画老师和国内女友
+Dialogue: 0,00:07:07.92,00:07:13.06,*Default,NTP,0000,0000,0000,,it can't be I found him my god I didn't\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}它不可能我发现他是我的上帝我没有
+Dialogue: 0,00:07:13.26,00:07:15.52,*Default,NTP,0000,0000,0000,,think he was real he's learned the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}认为他是真实的，他已经学会了
+Dialogue: 0,00:07:15.72,00:07:18.37,*Default,NTP,0000,0000,0000,,forbidden technique it's the man who's\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}禁止的技术是男人的
+Dialogue: 0,00:07:18.57,00:07:21.16,*Default,NTP,0000,0000,0000,,mastered ultra incest on today's episode\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 在今天的剧集中掌握了超乱伦
+Dialogue: 0,00:07:21.36,00:07:23.71,*Default,NTP,0000,0000,0000,,of my social anxiety can't be this cute\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我的社交焦虑不可能这么可爱
+Dialogue: 0,00:07:23.91,00:07:25.69,*Default,NTP,0000,0000,0000,,we have hitori Bochy detailing the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我们有hitori Bochy详细介绍了
+Dialogue: 0,00:07:25.89,00:07:27.64,*Default,NTP,0000,0000,0000,,adventures of a precious 14 year old\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}一个宝贵的14岁的冒险
+Dialogue: 0,00:07:27.84,00:07:29.23,*Default,NTP,0000,0000,0000,,girl as she awkwardly stumbles through\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}女孩， 因为她笨拙地绊倒了
+Dialogue: 0,00:07:29.43,00:07:32.38,*Default,NTP,0000,0000,0000,,making some tour my dad geez aka it's\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}做一些游览我爸爸geez又名它
+Dialogue: 0,00:07:32.58,00:07:34.12,*Default,NTP,0000,0000,0000,,basically just what ammo II honestly\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}基本上只是弹药II老实说
+Dialogue: 0,00:07:34.32,00:07:35.56,*Default,NTP,0000,0000,0000,,though this is just fucking adorable\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 虽然这 仅仅是他妈的可爱
+Dialogue: 0,00:07:35.76,00:07:38.02,*Default,NTP,0000,0000,0000,,with so many hashtag mood hashtag\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 有这么多的标签心情标签
+Dialogue: 0,00:07:38.22,00:07:39.88,*Default,NTP,0000,0000,0000,,relatable moments it's almost as if this\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}相关的时刻几乎就像这样
+Dialogue: 0,00:07:40.08,00:07:41.50,*Default,NTP,0000,0000,0000,,show is actually about if I was\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 如果是的话，节目实际上是关于
+Dialogue: 0,00:07:41.70,00:07:42.91,*Default,NTP,0000,0000,0000,,reincarnated as a socially awkward\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}转世为社交尴尬
+Dialogue: 0,00:07:43.11,00:07:45.31,*Default,NTP,0000,0000,0000,,middle school anime girl though that\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}中学动漫女孩虽然那样
+Dialogue: 0,00:07:45.51,00:07:46.84,*Default,NTP,0000,0000,0000,,just makes it sound like a nice acai or\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 只是让它听起来像一个很好的acai或
+Dialogue: 0,00:07:47.04,00:07:50.98,*Default,NTP,0000,0000,0000,,something all right what do we go next\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}有事没事我们怎么去下一个
+Dialogue: 0,00:07:51.18,00:07:54.28,*Default,NTP,0000,0000,0000,,[Music]\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} [音乐] 
+Dialogue: 0,00:07:56.46,00:07:57.89,*Default,NTP,0000,0000,0000,,[Music]\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} [音乐] 
+Dialogue: 0,00:07:58.09,00:08:01.13,*Default,NTP,0000,0000,0000,,[Applause]\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} [掌声] 
+Dialogue: 0,00:08:02.26,00:08:09.82,*Default,NTP,0000,0000,0000,,[Music]\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} [音乐] 
+Dialogue: 0,00:08:12.39,00:08:20.59,*Default,NTP,0000,0000,0000,,[Music]\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} [音乐] 
+Dialogue: 0,00:08:20.99,00:08:24.34,*Default,NTP,0000,0000,0000,,I'm gay now where do I even start with\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我现在是同性恋，我甚至从哪里开始
+Dialogue: 0,00:08:24.54,00:08:27.52,*Default,NTP,0000,0000,0000,,this one what tags this is even belong\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 这个标签甚至属于什么标签
+Dialogue: 0,00:08:27.72,00:08:29.77,*Default,NTP,0000,0000,0000,,to so welcome to the latest drug-induced\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 如此欢迎最新的药物诱导
+Dialogue: 0,00:08:29.97,00:08:32.17,*Default,NTP,0000,0000,0000,,brain fart of Kunihiko Ichi Hara whose\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} Kunihiko IchiHara的脑屁
+Dialogue: 0,00:08:32.37,00:08:33.73,*Default,NTP,0000,0000,0000,,works include the likes of Mara Roux\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}作品包括MaraRoux等
+Dialogue: 0,00:08:33.93,00:08:35.74,*Default,NTP,0000,0000,0000,,penguindrum and revolutionary girl utena\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} penguindrum 和革命女孩utena
+Dialogue: 0,00:08:35.94,00:08:38.14,*Default,NTP,0000,0000,0000,,which if you're familiar with will give\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 如果你熟悉的话会给予
+Dialogue: 0,00:08:38.34,00:08:39.58,*Default,NTP,0000,0000,0000,,you a much better sense of what you're\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}你一个更好的你是什么感觉
+Dialogue: 0,00:08:39.78,00:08:41.56,*Default,NTP,0000,0000,0000,,getting into than anything I could save\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 进入比我能保存的任何东西
+Dialogue: 0,00:08:41.76,00:08:43.78,*Default,NTP,0000,0000,0000,,right now I don't think it's actually\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 现在 ，我不认为它实际上
+Dialogue: 0,00:08:43.98,00:08:45.40,*Default,NTP,0000,0000,0000,,possible to sum up this anime in the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}可以总结一下这个动漫
+Dialogue: 0,00:08:45.60,00:08:46.84,*Default,NTP,0000,0000,0000,,single sentence but I'm gonna damn well\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}单句， 但我会好的
+Dialogue: 0,00:08:47.04,00:08:48.07,*Default,NTP,0000,0000,0000,,try anyway\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 试试吧
+Dialogue: 0,00:08:48.27,00:08:49.99,*Default,NTP,0000,0000,0000,,imagine if Monica tree and URI and ice\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}想象一下如果莫妮卡树和URI和冰
+Dialogue: 0,00:08:50.19,00:08:52.09,*Default,NTP,0000,0000,0000,,had a persona flavored frog baby that\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}有一个人格味的青蛙宝宝
+Dialogue: 0,00:08:52.29,00:08:54.04,*Default,NTP,0000,0000,0000,,was anally conceived in Bollywood you're\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 你是宝莱坞人想的
+Dialogue: 0,00:08:54.24,00:08:55.63,*Default,NTP,0000,0000,0000,,watching three boys get transforms two\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}看着三个男孩变形两个
+Dialogue: 0,00:08:55.83,00:08:57.37,*Default,NTP,0000,0000,0000,,frogs or cappers when they get eaten\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 吃青蛙或封盖机
+Dialogue: 0,00:08:57.57,00:08:59.41,*Default,NTP,0000,0000,0000,,asked first by another Kappa as they end\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 当他们结束时，另一个Kappa首先问道
+Dialogue: 0,00:08:59.61,00:09:01.18,*Default,NTP,0000,0000,0000,,people's anuses in order to consume\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 人们的肛门才能消费
+Dialogue: 0,00:09:01.38,00:09:03.01,*Default,NTP,0000,0000,0000,,their inner desire they kinda like the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}他们的内心渴望有点像
+Dialogue: 0,00:09:03.21,00:09:04.48,*Default,NTP,0000,0000,0000,,phantom thieves except instead of\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}幽灵小偷除了代替
+Dialogue: 0,00:09:04.68,00:09:06.46,*Default,NTP,0000,0000,0000,,inducing a change of heart they just eat\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}引起他们刚吃 的心脏改变
+Dialogue: 0,00:09:06.66,00:09:08.35,*Default,NTP,0000,0000,0000,,ass it's about eating ass\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}屁股是关于吃屁股
+Dialogue: 0,00:09:08.55,00:09:10.48,*Default,NTP,0000,0000,0000,,yes someone's finally made an anime\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}是的，有人终于制作了动漫
+Dialogue: 0,00:09:10.68,00:09:13.06,*Default,NTP,0000,0000,0000,,about eating the Kumar's work as famous\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 关于吃Kumar的作品而闻名
+Dialogue: 0,00:09:13.26,00:09:14.92,*Default,NTP,0000,0000,0000,,being very out there on a surface level\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 是非常那里 在表面水平
+Dialogue: 0,00:09:15.12,00:09:16.54,*Default,NTP,0000,0000,0000,,requiring you to dig through as many\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}要求你挖掘尽可能多的东西
+Dialogue: 0,00:09:16.74,00:09:18.22,*Default,NTP,0000,0000,0000,,layers to come to your own conclusion\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 层来得出你自己的结论
+Dialogue: 0,00:09:18.42,00:09:20.26,*Default,NTP,0000,0000,0000,,which this definitely is buzz current\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 这肯定是嗡嗡声当前
+Dialogue: 0,00:09:20.46,00:09:21.70,*Default,NTP,0000,0000,0000,,the appeal of it I mean you look at\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 它的吸引力我的意思是你看
+Dialogue: 0,00:09:21.90,00:09:23.26,*Default,NTP,0000,0000,0000,,something like this and maybe you see a\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 像这样的东西，也许你看到了
+Dialogue: 0,00:09:23.46,00:09:24.79,*Default,NTP,0000,0000,0000,,message about hidden desires it's\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 关于隐藏欲望的消息
+Dialogue: 0,00:09:24.99,00:09:25.96,*Default,NTP,0000,0000,0000,,brought to the lens of traditional\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 带到了传统的镜头
+Dialogue: 0,00:09:26.16,00:09:27.46,*Default,NTP,0000,0000,0000,,Japanese folklore with the side of\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}日本民间传说的一面
+Dialogue: 0,00:09:27.66,00:09:29.71,*Default,NTP,0000,0000,0000,,homoeroticism set in the technologically\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}同性恋主义在技​​术上设定
+Dialogue: 0,00:09:29.91,00:09:32.77,*Default,NTP,0000,0000,0000,,red lights modern day or you might just\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}红灯现代或你可能只是
+Dialogue: 0,00:09:32.97,00:09:34.63,*Default,NTP,0000,0000,0000,,see Avengers endgame spoilers I would\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 看复仇者看到破坏者我会
+Dialogue: 0,00:09:34.83,00:09:35.74,*Default,NTP,0000,0000,0000,,say Oh enjoyed it\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}说哦很享受
+Dialogue: 0,00:09:35.94,00:09:37.30,*Default,NTP,0000,0000,0000,,but that would imply my brain had\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}但这意味着我的大脑已经拥有了
+Dialogue: 0,00:09:37.50,00:09:39.01,*Default,NTP,0000,0000,0000,,rationalized the experience to something\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 使经验合理化
+Dialogue: 0,00:09:39.21,00:09:40.63,*Default,NTP,0000,0000,0000,,close enough to resembling a coherent\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}足够接近， 像一个连贯的
+Dialogue: 0,00:09:40.83,00:09:43.04,*Default,NTP,0000,0000,0000,,thought\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}思想
+Dialogue: 0,00:09:44.87,00:09:51.66,*Default,NTP,0000,0000,0000,,I know powerfully through yakuman what's\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我通过yakuman有力地了解了什么
+Dialogue: 0,00:09:51.86,00:09:54.92,*Default,NTP,0000,0000,0000,,your winger EEMA\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 你的边锋EEMA
+Dialogue: 0,00:09:55.12,00:09:58.05,*Default,NTP,0000,0000,0000,,okay oh boy he knew I was coming one\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}好吧哦，男孩， 他知道我要来了
+Dialogue: 0,00:09:58.25,00:10:00.30,*Default,NTP,0000,0000,0000,,punch man is back with a new studio new\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}拳击男子回来了新的工作室
+Dialogue: 0,00:10:00.50,00:10:01.89,*Default,NTP,0000,0000,0000,,staff members and a production schedule\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}工作人员和生产计划
+Dialogue: 0,00:10:02.09,00:10:03.96,*Default,NTP,0000,0000,0000,,that seems to have set itself on fire\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}这似乎让自己着火了
+Dialogue: 0,00:10:04.16,00:10:05.61,*Default,NTP,0000,0000,0000,,all the signs were pointing to this\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}所有的迹象都指向了这一点
+Dialogue: 0,00:10:05.81,00:10:07.83,*Default,NTP,0000,0000,0000,,being an absolute tragedy so was it the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 是一个绝对的悲剧所以它是
+Dialogue: 0,00:10:08.03,00:10:10.83,*Default,NTP,0000,0000,0000,,biggest disaster to ever grace our anime\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我们动漫的最大灾难
+Dialogue: 0,00:10:11.03,00:10:17.28,*Default,NTP,0000,0000,0000,,community nah it was um it was okay\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}社区不，这是没关系的
+Dialogue: 0,00:10:17.48,00:10:19.41,*Default,NTP,0000,0000,0000,,honestly this probably was the most okay\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}说实话，这可能是最好的
+Dialogue: 0,00:10:19.61,00:10:21.42,*Default,NTP,0000,0000,0000,,return I've seen it's really not as bad\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 回来我看到它真的没那么糟糕
+Dialogue: 0,00:10:21.62,00:10:23.13,*Default,NTP,0000,0000,0000,,as people are making it out to be but\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 正如人们正在努力的那样
+Dialogue: 0,00:10:23.33,00:10:24.12,*Default,NTP,0000,0000,0000,,when you're coming off one of the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}当你离开其中一个
+Dialogue: 0,00:10:24.32,00:10:26.01,*Default,NTP,0000,0000,0000,,greatest showcase of action animation in\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 最伟大的动作动画 展示
+Dialogue: 0,00:10:26.21,00:10:27.69,*Default,NTP,0000,0000,0000,,the last decade to some of the most\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}过去十年中的一些最多
+Dialogue: 0,00:10:27.89,00:10:30.27,*Default,NTP,0000,0000,0000,,bog-standard averaged fight scenes you\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 沼泽标准平均战斗场景你
+Dialogue: 0,00:10:30.47,00:10:32.88,*Default,NTP,0000,0000,0000,,can find anywhere else yeah it's gonna\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}可以找到任何其他地方是的它会
+Dialogue: 0,00:10:33.08,00:10:34.71,*Default,NTP,0000,0000,0000,,be a bit of a disappointment but it has\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}是有点失望，但它有
+Dialogue: 0,00:10:34.91,00:10:37.47,*Default,NTP,0000,0000,0000,,best girl yes this is canon best girl\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}最好的女孩是的，这是佳能最好的女孩
+Dialogue: 0,00:10:37.67,00:10:42.72,*Default,NTP,0000,0000,0000,,there is no debate this time so I'll\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 这次没有辩论，所以我会
+Dialogue: 0,00:10:42.92,00:10:44.10,*Default,NTP,0000,0000,0000,,still probably watch it anyway cause\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}仍然可能无论如何都要看它
+Dialogue: 0,00:10:44.30,00:10:45.87,*Default,NTP,0000,0000,0000,,animation aside the new character\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}除了新角色之外的动画
+Dialogue: 0,00:10:46.07,00:10:47.46,*Default,NTP,0000,0000,0000,,designs don't even bother me that much\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}设计甚至不会打扰我
+Dialogue: 0,00:10:47.66,00:10:49.41,*Default,NTP,0000,0000,0000,,even if they've given saitama's bald\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 即使他们给了saitama的秃头
+Dialogue: 0,00:10:49.61,00:10:51.60,*Default,NTP,0000,0000,0000,,head this weird shiny gradient blush\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 这个奇怪的闪亮渐变腮红
+Dialogue: 0,00:10:51.80,00:10:53.31,*Default,NTP,0000,0000,0000,,thing which I've know I've seen in anime\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我知道我在动漫中看过的东西
+Dialogue: 0,00:10:53.51,00:10:55.89,*Default,NTP,0000,0000,0000,,before but I can't quite put my finger\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}之前， 但我不能完全放手指
+Dialogue: 0,00:10:56.09,00:11:02.58,*Default,NTP,0000,0000,0000,,on it wait a minute yes yes yes yes yes\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}在它等待一分钟是是是是是是
+Dialogue: 0,00:11:02.78,00:11:06.66,*Default,NTP,0000,0000,0000,,do you that it's a familiar sound war is\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 你认为这是一场熟悉的声音战争吗？
+Dialogue: 0,00:11:06.86,00:11:07.08,*Default,NTP,0000,0000,0000,,coming\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 未来
+Dialogue: 0,00:11:07.28,00:11:09.69,*Default,NTP,0000,0000,0000,,another long romantic comedy with one\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}另一部长篇浪漫喜剧
+Dialogue: 0,00:11:09.89,00:11:11.97,*Default,NTP,0000,0000,0000,,male lead another show with many girls\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}男性带领许多女孩的另一个节目
+Dialogue: 0,00:11:12.17,00:11:14.22,*Default,NTP,0000,0000,0000,,worth protecting so pick your side\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}值得保护， 所以选择你的一面
+Dialogue: 0,00:11:14.42,00:11:16.44,*Default,NTP,0000,0000,0000,,soldier there'll be a long and arduous\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}士兵那将是一个漫长而艰巨的过程
+Dialogue: 0,00:11:16.64,00:11:19.35,*Default,NTP,0000,0000,0000,,battle and whoever wins you won't be\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}战斗，无论谁赢了你都不会
+Dialogue: 0,00:11:19.55,00:11:21.39,*Default,NTP,0000,0000,0000,,forgetting it any time soon because\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 很快忘记它，因为
+Dialogue: 0,00:11:21.59,00:11:24.57,*Default,NTP,0000,0000,0000,,remember soldiers wars may come and go\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}记得士兵的战争可能来去匆匆
+Dialogue: 0,00:11:24.77,00:11:28.08,*Default,NTP,0000,0000,0000,,but salt remains eternal I've picked my\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 但盐仍然是永恒的，我已经选择了我的
+Dialogue: 0,00:11:28.28,00:11:29.73,*Default,NTP,0000,0000,0000,,corner all right I'm just gonna set up\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 好吧我会安排好的
+Dialogue: 0,00:11:29.93,00:11:32.10,*Default,NTP,0000,0000,0000,,camp here on Team sensei cuz I think\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我认为，在这支队伍中，我可以参加
+Dialogue: 0,00:11:32.30,00:11:34.53,*Default,NTP,0000,0000,0000,,between this domestic girlfriend and the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 这个国内的女朋友和之间
+Dialogue: 0,00:11:34.73,00:11:36.39,*Default,NTP,0000,0000,0000,,previous teacher show I am ready to\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}以前的老师秀我准备好了
+Dialogue: 0,00:11:36.59,00:11:38.64,*Default,NTP,0000,0000,0000,,declare that we have entered the dawn of\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 宣称我们已经进入了曙光
+Dialogue: 0,00:11:38.84,00:11:41.88,*Default,NTP,0000,0000,0000,,a new age the era of the Emoto is dead\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}一个新的时代，Emoto的时代 已经死了
+Dialogue: 0,00:11:42.08,00:11:44.72,*Default,NTP,0000,0000,0000,,it's time to start the age of the tills\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}是时候开始收割的时代了
+Dialogue: 0,00:11:44.92,00:11:49.11,*Default,NTP,0000,0000,0000,,that's right teachers I'd like to feed\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 那是我想要喂养的合适的老师
+Dialogue: 0,00:11:49.31,00:11:50.43,*Default,NTP,0000,0000,0000,,all my love and attention to you because\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}所有我对你的爱和关注因为
+Dialogue: 0,00:11:50.63,00:11:51.72,*Default,NTP,0000,0000,0000,,teachers are hardworking humans just\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}老师们只是勤劳的人
+Dialogue: 0,00:11:51.92,00:11:52.95,*Default,NTP,0000,0000,0000,,trying to harness and is it wrong to\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}试图利用并且是错误的
+Dialogue: 0,00:11:53.15,00:11:54.21,*Default,NTP,0000,0000,0000,,just want to sensei you can smile with\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 只是希望老师可以用微笑
+Dialogue: 0,00:11:54.41,00:11:55.95,*Default,NTP,0000,0000,0000,,the pure happiness she deserves okay you\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}纯粹的幸福，她值得你好吗
+Dialogue: 0,00:11:56.15,00:11:57.51,*Default,NTP,0000,0000,0000,,got it yeah yeah I think I got it all\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}得到它是啊是啊我想我得到了一切
+Dialogue: 0,00:11:57.71,00:11:58.05,*Default,NTP,0000,0000,0000,,right just follow\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 正好跟随
+Dialogue: 0,00:11:58.25,00:12:12.06,*Default,NTP,0000,0000,0000,,my lead okay today is gonna be the day\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我 今天 铅还好是会到来的那一天
+Dialogue: 0,00:12:12.26,00:12:14.85,*Default,NTP,0000,0000,0000,,that I never throw it back sometimes all\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我从来不扔回去，有时所有
+Dialogue: 0,00:12:15.05,00:12:18.03,*Default,NTP,0000,0000,0000,,it takes is one episode I went to\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}这是我去过的一集
+Dialogue: 0,00:12:18.23,00:12:19.26,*Default,NTP,0000,0000,0000,,Carroll and chooses there with quite a\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 卡罗尔与相当有选择
+Dialogue: 0,00:12:19.46,00:12:21.03,*Default,NTP,0000,0000,0000,,lot of hype as someone who really loves\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 作为一个真正喜欢的人，大量的炒作
+Dialogue: 0,00:12:21.23,00:12:23.01,*Default,NTP,0000,0000,0000,,anime about music and this being the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}关于音乐的动漫，这就是它
+Dialogue: 0,00:12:23.21,00:12:24.90,*Default,NTP,0000,0000,0000,,latest outing of bones and Shinichiro\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}最新的骨头和Shinichiro
+Dialogue: 0,00:12:25.10,00:12:26.88,*Default,NTP,0000,0000,0000,,Watanabe who if he didn't know is the\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}渡边谁，如果他不知道是
+Dialogue: 0,00:12:27.08,00:12:29.12,*Default,NTP,0000,0000,0000,,director behind shows like Cowboy Bebop\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 像Cowboy Bebop这样的导演背后的导演
+Dialogue: 0,00:12:29.32,00:12:31.73,*Default,NTP,0000,0000,0000,,samurai Champloo zankyou no terror\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}武士Champloo zankyou没有恐怖
+Dialogue: 0,00:12:31.93,00:12:35.43,*Default,NTP,0000,0000,0000,,us-based bandy kids on the slope so yeah\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我们在斜坡上的乐队孩子是的，所以是的
+Dialogue: 0,00:12:35.63,00:12:37.14,*Default,NTP,0000,0000,0000,,basically a nobody\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 基本上没人
+Dialogue: 0,00:12:37.34,00:12:38.91,*Default,NTP,0000,0000,0000,,even with that hype this first episode\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}即使是第一集的炒作
+Dialogue: 0,00:12:39.11,00:12:40.83,*Default,NTP,0000,0000,0000,,floored me aside from the stunning\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 让我惊艳不已
+Dialogue: 0,00:12:41.03,00:12:42.84,*Default,NTP,0000,0000,0000,,visuals it did pretty much everything a\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}视觉效果它确实几乎一切
+Dialogue: 0,00:12:43.04,00:12:44.91,*Default,NTP,0000,0000,0000,,first episode needed to do it takes\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}第一集需要这样做
+Dialogue: 0,00:12:45.11,00:12:46.41,*Default,NTP,0000,0000,0000,,similar beats of some of the great music\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}一些伟大音乐的类似节拍
+Dialogue: 0,00:12:46.61,00:12:48.72,*Default,NTP,0000,0000,0000,,anime of the past like Beck and Nana\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 像贝克和娜娜 一样过去的动漫
+Dialogue: 0,00:12:48.92,00:12:50.07,*Default,NTP,0000,0000,0000,,you've got a completely original and\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}你有一个完全原创的
+Dialogue: 0,00:12:50.27,00:12:51.69,*Default,NTP,0000,0000,0000,,interesting setting in Mars of all\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 火星中有趣的环境
+Dialogue: 0,00:12:51.89,00:12:53.58,*Default,NTP,0000,0000,0000,,places in a future where culture is\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 在未来的地方文化
+Dialogue: 0,00:12:53.78,00:12:55.83,*Default,NTP,0000,0000,0000,,produced by AI and to top it off you've\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 人工智能制作并完成你的工作
+Dialogue: 0,00:12:56.03,00:12:57.45,*Default,NTP,0000,0000,0000,,got this one scene where the two girls\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}得到这两个女孩的场景
+Dialogue: 0,00:12:57.65,00:12:59.04,*Default,NTP,0000,0000,0000,,are trying to figure out this song and\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 正在试图找出这首歌
+Dialogue: 0,00:12:59.24,00:13:00.99,*Default,NTP,0000,0000,0000,,there's this beautiful little moment\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}这是一个美好的小时刻
+Dialogue: 0,00:13:01.19,00:13:02.61,*Default,NTP,0000,0000,0000,,when they're just fumbling around out of\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}当他们刚刚走出来的时候
+Dialogue: 0,00:13:02.81,00:13:04.68,*Default,NTP,0000,0000,0000,,sync jamming together for the first time\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 第一次同步干扰
+Dialogue: 0,00:13:04.88,00:13:07.62,*Default,NTP,0000,0000,0000,,before slowly piecing it together and\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}前慢慢拼凑一起，并
+Dialogue: 0,00:13:07.82,00:13:09.39,*Default,NTP,0000,0000,0000,,then there's a moment where it just\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}然后就是片刻
+Dialogue: 0,00:13:09.59,00:13:13.32,*Default,NTP,0000,0000,0000,,clicks and I just felt this chill run\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}点击和我只是觉得这个寒意运行
+Dialogue: 0,00:13:13.52,00:13:14.38,*Default,NTP,0000,0000,0000,,down my spine\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我的脊椎
+Dialogue: 0,00:13:14.58,00:13:17.66,*Default,NTP,0000,0000,0000,,[Music]\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} [音乐] 
+Dialogue: 0,00:13:21.60,00:13:24.74,*Default,NTP,0000,0000,0000,,that's all it took for me to fall in\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}这就是我所需要的全部内容
+Dialogue: 0,00:13:24.94,00:13:26.81,*Default,NTP,0000,0000,0000,,love with this show it could go to shit\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}喜欢这个节目它可能会变得糟透了
+Dialogue: 0,00:13:27.01,00:13:29.93,*Default,NTP,0000,0000,0000,,but I am already invested my only regret\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 但我已经投入了我唯一的遗憾
+Dialogue: 0,00:13:30.13,00:13:31.79,*Default,NTP,0000,0000,0000,,is that is behind Netflix license jail\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 这是Netflix许可证监狱的 背后
+Dialogue: 0,00:13:31.99,00:13:33.17,*Default,NTP,0000,0000,0000,,meaning not many people are talking\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}意思是没有多少人在说话
+Dialogue: 0,00:13:33.37,00:13:34.97,*Default,NTP,0000,0000,0000,,about it but I'm probably gonna wait for\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 关于它，但我可能会等待
+Dialogue: 0,00:13:35.17,00:13:36.29,*Default,NTP,0000,0000,0000,,the full release after this anyway\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 无论如何，在此之后完全释放
+Dialogue: 0,00:13:36.49,00:13:37.91,*Default,NTP,0000,0000,0000,,because this is a show that I'm gonna\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}因为这是一个我要去的节目
+Dialogue: 0,00:13:38.11,00:13:40.31,*Default,NTP,0000,0000,0000,,need to marathon so aside from that it's\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 需要马拉松所以除了 它的
+Dialogue: 0,00:13:40.51,00:13:43.28,*Default,NTP,0000,0000,0000,,fucking great and absolutely nothing can\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}他妈的很棒，绝对没有什么可以
+Dialogue: 0,00:13:43.48,00:13:51.74,*Default,NTP,0000,0000,0000,,possibly go hey guys hope you enjoyed\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 可能会嘿嘿家伙希望你喜欢
+Dialogue: 0,00:13:51.94,00:13:53.51,*Default,NTP,0000,0000,0000,,the video thank you very much they too\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}视频非常感谢你们
+Dialogue: 0,00:13:53.71,00:13:56.66,*Default,NTP,0000,0000,0000,,careless just wean us Walt o supreme\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}粗心只是让我们失去了沃尔特至尊
+Dialogue: 0,00:13:56.86,00:13:59.87,*Default,NTP,0000,0000,0000,,sayin Nicolas Tatum sisters one zero\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}说尼古拉斯塔图姆姐妹一分零
+Dialogue: 0,00:14:00.07,00:14:02.87,*Default,NTP,0000,0000,0000,,zero eight six grant fields and everyone\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 零八个赠款领域和每个人
+Dialogue: 0,00:14:03.07,00:14:04.43,*Default,NTP,0000,0000,0000,,else my patreon to helping support me\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}别的我patreon 帮助支持我
+Dialogue: 0,00:14:04.63,00:14:06.08,*Default,NTP,0000,0000,0000,,for this month and making this video\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 这个月和制作这个视频
+Dialogue: 0,00:14:06.28,00:14:06.83,*Default,NTP,0000,0000,0000,,possible\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}可能
+Dialogue: 0,00:14:07.03,00:14:08.09,*Default,NTP,0000,0000,0000,,you know itself like talking about\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}你知道自己喜欢谈论
+Dialogue: 0,00:14:08.29,00:14:09.62,*Default,NTP,0000,0000,0000,,anything else I wanted to give an extra\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我想要额外的东西
+Dialogue: 0,00:14:09.82,00:14:11.90,*Default,NTP,0000,0000,0000,,thanks to them today because if you\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 今天感谢他们，因为如果你
+Dialogue: 0,00:14:12.10,00:14:14.00,*Default,NTP,0000,0000,0000,,didn't know a few days ago my entire\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}前几天我不知道我的全部
+Dialogue: 0,00:14:14.20,00:14:16.49,*Default,NTP,0000,0000,0000,,channels just suddenly got demonetised\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 频道突然被恶化了
+Dialogue: 0,00:14:16.69,00:14:20.33,*Default,NTP,0000,0000,0000,,by YouTube which was yeah bit of a scare\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}通过YouTube，这有点吓人
+Dialogue: 0,00:14:20.53,00:14:22.04,*Default,NTP,0000,0000,0000,,luckily first you or I managed to get it\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}幸运的是， 首先你或我设法得到它
+Dialogue: 0,00:14:22.24,00:14:24.14,*Default,NTP,0000,0000,0000,,back pretty quickly but it was kind of a\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}回来很快，但它有点像
+Dialogue: 0,00:14:24.34,00:14:26.45,*Default,NTP,0000,0000,0000,,wake-up call and made me really thankful\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 当头棒喝，让我真的很感谢
+Dialogue: 0,00:14:26.65,00:14:28.61,*Default,NTP,0000,0000,0000,,that I do have this safety net in case\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我确实有这个安全网以防万一
+Dialogue: 0,00:14:28.81,00:14:30.59,*Default,NTP,0000,0000,0000,,unli something like this happens again\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} unli这样的事情再次发生
+Dialogue: 0,00:14:30.79,00:14:32.39,*Default,NTP,0000,0000,0000,,and I mean yeah I guess it goes to show\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 我的意思是，我想它会显示出来
+Dialogue: 0,00:14:32.59,00:14:34.94,*Default,NTP,0000,0000,0000,,that it could really happen to anyone no\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 它真的可能发生在任何人身上
+Dialogue: 0,00:14:35.14,00:14:36.74,*Default,NTP,0000,0000,0000,,matter how big or small you are in this\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 无论是大还是小，你在这
+Dialogue: 0,00:14:36.94,00:14:38.81,*Default,NTP,0000,0000,0000,,anime community anyway though that's it\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 尽管如此，动漫社区也是如此
+Dialogue: 0,00:14:39.01,00:14:39.50,*Default,NTP,0000,0000,0000,,for me\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}为了我
+Dialogue: 0,00:14:39.70,00:14:41.36,*Default,NTP,0000,0000,0000,,I've been geared up and I'll see you all\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&}我已经作好准备 ，我会看到你的所有
+Dialogue: 0,00:14:41.56,00:14:46.56,*Default,NTP,0000,0000,0000,,next time\N{\fs16}{\b0}{\c&HFFFFFF&}{\3c&H2F2F2F&}{\4c&H000000&} 下次
